@@ -1,0 +1,17 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v156)
+"   /c/Users/hp/Desktop
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+Desktop/
+| AWS/
+| LINUX COMMANDS/
+| devops/
+| Google Chrome.lnk*
+| Opera Browser.lnk*
+| µTorrent.lnk*
+| desktop.ini
+| devops.txt
